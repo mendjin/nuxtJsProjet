@@ -1,7 +1,8 @@
 <template>
- <div>
-  
-</div>
+  <div>
+    <div class="container-fluid">
+    </div>
+  </div>
 </template>
 
 <script>
