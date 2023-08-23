@@ -118,7 +118,7 @@
   </button>
   </div>
    <div>
-    <button type="button" class="btn btn-success">OK</button>
+    <button type="button" class="btn btn-danger">valider</button>
    </div>
 
     </div>
