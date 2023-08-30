@@ -85,7 +85,7 @@
                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmaRwV99KvcXv3XSdpLw52XuMll_q8DlzZg&usqp=CAU" 
                            class="card-img-top" alt="basket2">
                             <div class="card-body">
-                                <h5 class="card-title">Bloc 2</h5>
+                                <h5 class="card-title">Bloc 3</h5>
                             </div>
                         </div>
                     </div>
